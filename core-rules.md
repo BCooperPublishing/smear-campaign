@@ -186,7 +186,7 @@ Arcane measures your ability to bend reality toward your will.
 
 
 ### Hit Points
-- HP = Endurance[dice] * Endurance(dots)
+- HP = ( Endurance[dice] *3 ) + Endurance(dots)
 
 ### Example Characters
 - Fighter
